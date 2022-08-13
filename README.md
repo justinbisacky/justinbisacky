@@ -1,10 +1,8 @@
-### Hi, I'm Justin ###
+## Hi, I'm Justin Bisacky.
+I am currently a student at ASU pursuing a Bachelors of Science in Software Engineering.
 
-## I'm currently studying Software Engineering at ASU ##
-- Interests include Personal Knowledge management (Obsidian, Notion, Logseq, etc)
-- Primarily languages for development: Java, C, and Python
-
-# Technologies I'd like to work with #
-- Swift
-- Javascript
-
+## This is my personal portfolio of projects and exercises to reinforce my skills
+### Current Areas of Emphasis
+- C
+- Java
+- JavaScript
